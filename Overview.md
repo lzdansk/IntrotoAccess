@@ -17,11 +17,11 @@ The literature has examined current practices, tested potential teaching strateg
 
 To create this course, the overall project needed to address several questions about student learning objectives and core concepts for instructors.
 
-  What is the general structure of a class on accessibility design?
-  Where would an interdisciplinary course “live” in the curriculum?
-  What are the necessary learning objectives for students?
-  What concepts would instructors need to be familiar with to teach this course?
-  How can an “Accessibility Design” course be used to both serve as an example to instructors of accessible course materials and design as well as a template for projects and learning objectives to be incorporated into existing classwork?
+  1. What is the general structure of a class on accessibility design?
+  1. Where would an interdisciplinary course “live” in the curriculum?
+  1. What are the necessary learning objectives for students?
+  1. What concepts would instructors need to be familiar with to teach this course?
+  1. How can an “Accessibility Design” course be used to both serve as an example to instructors of accessible course materials and design as  well as a template for projects and learning objectives to be incorporated into existing classwork?
 
 ## Course Structure
 An Introduction to Accessible Design has been designed as a semester long class broken into smaller modules to include hands on skills, such as captioning videos and performing heuristic analysis, and also more rhetorically critical assignments such as case study analysis. Ultimately, this class aims to educate students before they move into industrial positions, and to help them in their job application process, requires them to create a project portfolio of their accessibility work. Since there are no certifications or minimum requirements for becoming an “Accessibility Expert,” having a portfolio of work strongly supports students’ claims that they are proficient in creating accessible products.
