@@ -18,8 +18,8 @@ email: lzdansk@ncsu.edu
 description: "This site provides educational materials and instructional templates about accessibility for technical communicators.
 This includes an overview of disability studies, Section 508, WCAG 2.0, incorporating accessibility into usability testing, and evaluating products for
 accessibility issues."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/IntrotoAccess" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  lzdansk
 
