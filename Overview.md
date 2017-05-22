@@ -1,4 +1,8 @@
-# An Overview to “An Introduction to Accessible Design”
+---
+layout: page
+title: An Overview to "An Introduction to Accessible Design"
+permalink: /Overview/
+---
 
 ## Introduction
 The stipulations of United States federal funding require that organizations and educational institutions provide universal access of physical spaces and information to their employees, customers, and students. This requirement places an onus of ensuring accessibility on instructors and information technology. At NC State University, the Office of Information Technology provides support to instructors in making accessible course materials, and have expressed an interest in creating a class for students in Accessible Design. This Introduction to Accessible Design provides an example to instructors of accessible course materials, can be taught as a stand-alone class, or offers the option to include modules or specific assignments in existing classes.
